@@ -1,4 +1,4 @@
-
+let stop = false;
 
 (function (){
 
